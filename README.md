@@ -9,7 +9,7 @@
 
 <p align="justify">Having completed my Masters, I am now searching for a job in data. I am open to work in data related roles: Data Analyst, Data Engineer, Data Scientist, etc.</p>
 
-<p align="justify"></p>
+<p align="justify">Please take a look at my project portfolio and my skills below!</p>
 
 </details>
 
