@@ -5,9 +5,9 @@
 
 <p align="justify">My interest in data science grew out of a love for probability, math, and statistics. I approach data with curiosity, to uncover insights that inform decision-making and tell meaningful stories. </p>
 
-<p align="justify"></p>
+<p align="justify">This lead me to pursue a Masters in Analytics (MS), where I had the pleasure to work along side 4 groups doing 11+ projects. This experience built both my technical skills, and my teamwork skills as well. Through my work, I have an even greater passion for communication complex data results to a non-technical audience. </p>
 
-<p align="justify"></p>
+<p align="justify">Having completed my Masters, I am now searching for a job in data. I am open to work in data related roles: Data Analyst, Data Engineer, Data Scientist, etc.</p>
 
 <p align="justify"></p>
 
