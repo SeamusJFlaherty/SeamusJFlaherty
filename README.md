@@ -1,6 +1,6 @@
 <p align="justify"> Aspiring Data Professional with a background in Mathematics and Advanced Analytics, bringing an analytical and problem-solving mindset to my work. </p>
 
-<details>   <summary><b> &nbsp;My&nbsp;Background </b></summary>
+<details><summary><b> &nbsp;My&nbsp;Background </b></summary>
 <br>
 
 <p align="justify">My interest in data science grew out of a love for probability, math, and statistics. I approach data with curiosity, to uncover insights that inform decision-making and tell meaningful stories. </p>
@@ -13,7 +13,7 @@
 
 </details>
 
-<details> <summary><b>&nbsp;My&nbsp;Portfolio</b></summary>
+<details><summary><b>My&nbsp;Portfolio </b></summary>
 
 > Each project links to its business report, aside from the Tableau Dashboard. To view the associated code and supporting materials, navigate up one folder level within the repository.
 
