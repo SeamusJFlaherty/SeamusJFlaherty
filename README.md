@@ -13,7 +13,7 @@
 
 </details>
 
-<details>  <summary><b>&nbsp;&nbsp;My&nbsp;Portfolio</b></summary>
+<details> <summary><b>&nbsp;My&nbsp;Portfolio</b></summary>
 
 > Each project links to its business report, aside from the Tableau Dashboard. To view the associated code and supporting materials, navigate up one folder level within the repository.
 
