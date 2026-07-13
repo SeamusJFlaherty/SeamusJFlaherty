@@ -48,17 +48,17 @@
 
 </details>
 
-<details>  <summary><b>🛠️ &nbsp;My&nbsp;Stack&nbsp;&nbsp;</b></summary>
+<details>  <summary><b>&nbsp;My&nbsp;Stack&nbsp;&nbsp;</b></summary>
 
-- **🛢 Databases** || Postgres, SQLite
+- **Data and Databases** || Postgres, SQLite, S3
 
-- **🧑🏻‍💻 Programming** || Python, SQL, R
+- **Programming** || Python, SQL, R
 
-- **📶 BI Tools**|| Tableau
+- **BI Tools**|| Tableau
 
-- **🤖 AI/ML** || Sklearn, PyTorch
+- **AI/ML/Statistics** || Sklearn, PyTorch, Tidymodels/verse
 
-- **📝 Code Management** || GitHub
+- **Code Management** || GitHub, Colab
 
 </details>
 
